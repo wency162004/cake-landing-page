@@ -3,7 +3,10 @@
 A beautiful and responsive cake shop landing page built using **HTML** and **CSS**.
 This project focuses on modern UI design and clean layout structure.
 
+##Live Demo
 
+ https://wency162004.github.io/cake-landing-page/
+ 
 ##  Features
 
 *  Attractive hero section

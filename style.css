@@ -254,9 +254,10 @@ section h1{
   width:100%;
   min-width:200px;
   min-height:300px;
-  margin:0 auto;
+  margin-top:100px;
   animation:contact 1s ease;
  }
+ 
  .contact h3,
  .footer h3{
   text-align: center;
@@ -348,7 +349,7 @@ input[type="submit"]:hover{
   background: var(--primary-color);
   width:100%;
   height:auto;
-  margin-top:50px;
+  margin-top:170px;
   border-radius:0  0 6px 6px ;
 }
 .footer a

@@ -349,7 +349,7 @@ input[type="submit"]:hover{
   background: var(--primary-color);
   width:100%;
   height:auto;
-  margin-top:170px;
+  margin-top:100px;
   border-radius:0  0 6px 6px ;
 }
 .footer a

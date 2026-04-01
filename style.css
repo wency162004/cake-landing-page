@@ -347,6 +347,7 @@ input[type="submit"]:hover{
   grid-template-columns:1fr 1fr;
   background: var(--primary-color);
   width:100%;
+  height:auto;
   margin-top:50px;
   border-radius:0  0 6px 6px ;
 }

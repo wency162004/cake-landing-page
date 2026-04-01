@@ -169,7 +169,7 @@ section h1{
   box-shadow:2px 3px gray;
   border-radius:5px;
   background: var(--text3);
-   transition: all 0.5s;
+  transition: all 0.5s;
 }
 .description{
   margin:7px;
@@ -231,7 +231,7 @@ section h1{
   display:grid;
   grid-template-columns:1fr;
   gap:25px;
-  margin-top:20px;
+  margin-top:50px;
  }
  .container{
   background: var(--text3);
